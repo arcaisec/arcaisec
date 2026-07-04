@@ -4,6 +4,8 @@ With nearly a decade of experience, I operate at the intersection of **Operation
 
 Currently, my primary focus lies in the niche of **DeFi, Real-World Assets (RWA), and the broader Digital Assets ecosystem**, where I build robust defense mechanisms and ensure the integrity of high-value systems against advanced persistent threats (APTs).
 
+🌐 **[More About Me](https://arcaisec.com)** | 📂 **[arcaisec.com](https://arcaisec.com)**
+
 ### 🛠️ Technical Arsenal
 
 * 🔐 **Operational Security (OpSec)**
