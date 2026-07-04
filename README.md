@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🛡️ About Me
 
-<!--
-**arcaisec/arcaisec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With nearly a decade of experience, I operate at the intersection of **Operational Security (OpSec)** and **Application Security (AppSec)**. My career has been dedicated to defending and securing critical environments, specifically within Critical Infrastructure, Banking, and Digital Assets.
 
-Here are some ideas to get you started:
+Currently, my primary focus lies in the niche of **DeFi, Real-World Assets (RWA), and the broader Digital Assets ecosystem**, where I build robust defense mechanisms and ensure the integrity of high-value systems against advanced persistent threats (APTs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
+
+* 🔐 **Operational Security (OpSec)**
+* 💻 **Application Security (AppSec)**
+* ⛓️ **DeFi Security & Onchain SecOps**
+* ⚙️ **CI/CD Security**
+* 🚨 **Incident Response**
+* 🤖 **AI Security**
