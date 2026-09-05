@@ -1,6 +1,6 @@
 ### 🛡️ About Me
 
-**Making onchain finance as safe and trusted as traditional finance**
+**Securing what audits don't.**
 
 With nearly a decade of experience, I operate at the intersection of **Operational Security (OpSec)** and **Application Security (AppSec)**. My career has been dedicated to defending and securing critical environments, specifically within Critical Infrastructure, Banking, and Digital Assets.
 
