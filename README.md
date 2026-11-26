@@ -1,14 +1,17 @@
-### 🛡️ About Me
+### About Me
 
-With nearly a decade of experience, I operate at the intersection of **Operational Security (OpSec)** and **Application Security (AppSec)**. My career has been dedicated to defending and securing critical environments, specifically within Critical Infrastructure, Banking, and Digital Assets.
+Nearly a decade defending high-value environments in critical infrastructure, banking and digital assets.
 
-My primary focus lies in the niche of DeFi, Real-World Assets (RWA), and the broader Digital Assets ecosystem, where I build robust defense mechanisms and ensure the integrity of high-value systems against advanced persistent threats.
+My primary focus lies in the niche of DeFi, Real-World Assets (RWA) and the broader digital assets ecosystem, where I build defenses and protect the integrity of high-value systems against advanced persistent threats.
 
-### 🛠️ Technical Arsenal
+I work where those attacks actually begin: people, devices, identities, code and the pipeline that ships it. Detection engineering, application security and incident response are my core, and increasingly, securing the AI agents and tooling these teams depend on.
 
-* 🔐 **Operational Security (OpSec)**
-* 💻 **Application Security (AppSec)**
-* ⛓️ **DeFi Security & Onchain SecOps**
-* ⚙️ **CI/CD Security**
-* 🚨 **Incident Response**
-* 🤖 **AI Security**
+**Focus**
+
+- Detection engineering
+- Application security
+- Incident response
+- Operational security for high-value teams
+- CI/CD and software supply chain security
+- DeFi security and onchain SecOps
+- AI security
